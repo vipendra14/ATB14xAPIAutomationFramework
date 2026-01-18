@@ -119,7 +119,7 @@ allure serve allure-results/
 ```
 
 📸 **Allure Dashboard**
-![Allure](http://127.0.0.1:62453/#suites/b3e157198e042f9095980ced0a54e82b/b6921d68036486cd/)
+![Allure Report](https://github.com/PramodDutta/APIAutomationFramworkATB6x/assets/1409610/79ba2093-a1b7-4b36-ba16-9a6827af7afe)
 
 ---
 
