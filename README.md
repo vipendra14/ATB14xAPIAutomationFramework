@@ -1,4 +1,4 @@
-🚀 API Automation Framework using Rest Assured (Java)
+**🚀 API Automation Framework using Rest Assured (Java)**
 
 👨‍💻 Author: **Vipendra Mishra**
 
