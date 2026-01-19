@@ -22,7 +22,7 @@ A **powerful, scalable, and CI/CD-ready API Automation Framework** built using *
 mvn test -Dsurefire.suiteXmlFiles=testng.xml
 ````
 
-📸 **Execution Preview** <img width="1130" src="https://github.com/PramodDutta/APIAutomationRestAssured/assets/1409610/69f398b3-8798-4fba-a091-3b1e321dcc7d">
+📸 [**Execution Preview**](https://github.com/vipendra14/ATB14xAPIAutomationFramework/blob/master/src/Image/Execution%20Preview.png)
 
 ---
 
@@ -47,13 +47,13 @@ mvn test -Dsurefire.suiteXmlFiles=testng.xml
 ## 🗂️ Framework Architecture
 
 📸 **Framework Components**
-![Framework](https://github.com/PramodDutta/APIAutomationFramworkATB6x/assets/1409610/98bbc62d-7837-4bdc-900b-b214c675af6d)
+![Framework](https://github.com/vipendra14/ATB14xAPIAutomationFramework/blob/master/src/Image/Framework%20Components.png)
 
 ---
 
 ## 🔁 CI/CD Execution (Jenkins)
 
-📸 **Pipeline Execution** <img width="1262" src="https://github.com/PramodDutta/APIAutomationRestAssured/assets/1409610/2d58bf82-0ffb-4fcb-a2d9-cf26920fa7b5">
+📸 [**Pipeline Execution**](https://github.com/vipendra14/ATB14xAPIAutomationFramework/blob/master/src/Image/CI_CD.png)
 
 ---
 
@@ -119,7 +119,7 @@ allure serve allure-results/
 ```
 
 📸 **Allure Dashboard**
-![Allure Report](https://github.com/PramodDutta/APIAutomationFramworkATB6x/assets/1409610/79ba2093-a1b7-4b36-ba16-9a6827af7afe)
+![Allure Report](https://github.com/vipendra14/ATB14xAPIAutomationFramework/blob/master/src/Image/Allure%20Report.png)
 ---
 
 ## 🧾 Allure Setup Guide
