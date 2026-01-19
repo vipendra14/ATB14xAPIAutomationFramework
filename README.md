@@ -23,7 +23,7 @@ mvn test -Dsurefire.suiteXmlFiles=testng.xml
 ````
 
 📸 **Execution Preview**
-![Execution](https://github.com/vipendra14/ATB14xAPIAutomationFramework/blob/master/src/Image/Execution%20Preview.png)
+![Execution](https://github.com/vipendra14/ATB14xAPIAutomationFramework/blob/master/Images/Execution%20Preview.png)
 
 ---
 
@@ -49,14 +49,14 @@ mvn test -Dsurefire.suiteXmlFiles=testng.xml
 ## 🗂️ Framework Architecture
 
 📸 **Framework Components**
-![Framework](https://github.com/vipendra14/ATB14xAPIAutomationFramework/blob/master/src/Image/Framework%20Components.png)
+![Framework](https://github.com/vipendra14/ATB14xAPIAutomationFramework/blob/master/Images/Framework%20Components.png)
 
 ---
 
 ## 🔁 CI/CD Execution (Jenkins)
 
 📸 [**Pipeline Execution**]
-![Pipeline](https://github.com/vipendra14/ATB14xAPIAutomationFramework/blob/master/src/Image/CI_CD.png)
+![Pipeline](https://github.com/vipendra14/ATB14xAPIAutomationFramework/blob/master/Images/CI_CD.png)
 
 ---
 
@@ -122,7 +122,7 @@ allure serve allure-results/
 ```
 
 📸 **Allure Dashboard**
-![Allure Report](https://github.com/vipendra14/ATB14xAPIAutomationFramework/blob/master/src/Image/Allure%20Report.png)
+![Allure Report](https://github.com/vipendra14/ATB14xAPIAutomationFramework/blob/master/Images/Allure%20Report.png)
 ---
 
 ## 🧾 Allure Setup Guide
