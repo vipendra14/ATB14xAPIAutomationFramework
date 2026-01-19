@@ -120,7 +120,6 @@ allure serve allure-results/
 
 📸 **Allure Dashboard**
 ![Allure Report](https://github.com/PramodDutta/APIAutomationFramworkATB6x/assets/1409610/79ba2093-a1b7-4b36-ba16-9a6827af7afe)
-
 ---
 
 ## 🧾 Allure Setup Guide
