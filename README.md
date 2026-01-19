@@ -22,9 +22,11 @@ A **powerful, scalable, and CI/CD-ready API Automation Framework** built using *
 mvn test -Dsurefire.suiteXmlFiles=testng.xml
 ````
 
-📸 [**Execution Preview**](https://github.com/vipendra14/ATB14xAPIAutomationFramework/blob/master/src/Image/Execution%20Preview.png)
+📸 **Execution Preview**
+![Execution](https://github.com/vipendra14/ATB14xAPIAutomationFramework/blob/master/src/Image/Execution%20Preview.png)
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -53,7 +55,8 @@ mvn test -Dsurefire.suiteXmlFiles=testng.xml
 
 ## 🔁 CI/CD Execution (Jenkins)
 
-📸 [**Pipeline Execution**](https://github.com/vipendra14/ATB14xAPIAutomationFramework/blob/master/src/Image/CI_CD.png)
+📸 [**Pipeline Execution**]
+![Pipeline](https://github.com/vipendra14/ATB14xAPIAutomationFramework/blob/master/src/Image/CI_CD.png)
 
 ---
 
