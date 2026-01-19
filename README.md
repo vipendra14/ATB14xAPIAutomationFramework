@@ -127,13 +127,7 @@ allure serve allure-results/
 
 ## 🧾 Allure Setup Guide
 
-### 1️⃣ Install Allure (Mac)
-
-```bash
-brew install allure
-```
-
-### 2️⃣ Add Dependency
+### 1️⃣ Add Dependency
 
 ```xml
 <dependency>
@@ -143,7 +137,7 @@ brew install allure
 </dependency>
 ```
 
-### 3️⃣ Add Allure Plugin
+### 2️⃣ Add Allure Plugin
 
 ```xml
 <plugin>
@@ -156,7 +150,7 @@ brew install allure
 </plugin>
 ```
 
-### 4️⃣ Generate Report
+### 3️⃣ Generate Report
 
 ```bash
 mvn clean test
