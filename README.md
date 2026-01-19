@@ -87,7 +87,7 @@ mvn clean test -DsuiteXmlFile=testng.xml
 ## ⚡ Parallel Execution
 
 ```xml
-<suite name="All Test Suite" parallel="methods" thread-count= "2">
+<suite name="All Test Suite" parallel="methods" thread-count= "2"> 
 ```
 
 ✅ Faster test execution
