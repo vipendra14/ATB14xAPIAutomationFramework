@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Learning/The_Testing_Academy/Idea_Projects_Intellij_Java_Programs/ATB14xAPIAutomationFramework">
+        <classes>
+            <class name="com.APIRestAssuredPrograms.tests.restfulbooker.e2e.TestIntegrationFlow2">
+            </class>
+        </classes>
+    </test>
+</suite>
