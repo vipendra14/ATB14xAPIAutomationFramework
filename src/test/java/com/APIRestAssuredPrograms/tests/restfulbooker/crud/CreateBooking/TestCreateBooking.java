@@ -8,8 +8,6 @@ import io.qameta.allure.Owner;
 import io.restassured.RestAssured;
 import org.testng.annotations.Test;
 
-import static io.restassured.RestAssured.requestSpecification;
-
 public class TestCreateBooking extends BaseTest {
 
     @Test(groups= "reg", priority = 1)

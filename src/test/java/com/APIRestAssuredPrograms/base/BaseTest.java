@@ -2,6 +2,7 @@ package com.APIRestAssuredPrograms.base;
 
 import com.APIRestAssuredPrograms.asserts.AssertActions;
 import com.APIRestAssuredPrograms.endpoints.APIConstants;
+import com.APIRestAssuredPrograms.modules.groqpayloadmanager.GROQPayloadManager;
 import com.APIRestAssuredPrograms.modules.restfulbooker.PayloadManager;
 import com.APIRestAssuredPrograms.modules.vwo.PayloadManager_vwo;
 import io.restassured.RestAssured;
@@ -22,6 +23,7 @@ public class BaseTest {
 
     public PayloadManager payloadManager;
     public PayloadManager_vwo payloadManager_vwo;
+    public GROQPayloadManager groqPayloadManager;
     public JsonPath jsonPath;
     public AssertActions assertActions;
 
@@ -31,6 +33,7 @@ public class BaseTest {
         System.out.println("Start the testing");
         payloadManager = new PayloadManager();
         payloadManager_vwo = new PayloadManager_vwo();
+        groqPayloadManager = new GROQPayloadManager();
         assertActions = new AssertActions();
 
         rs= RestAssured.given();

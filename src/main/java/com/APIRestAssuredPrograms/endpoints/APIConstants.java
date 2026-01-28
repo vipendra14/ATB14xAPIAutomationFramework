@@ -15,4 +15,12 @@ public class APIConstants {
     public static String VWO_LOGIN_URL = "/login";
 
 
+    // Groq app
+    public static String GROQ_BASE_URL = "https://api.goq.com";
+    public static String GROQ_CHAT = "/openai/v1/chat/completions";
+
+
+ //   https://api.groq.com/openai/v1/chat/completions
+
 }
+

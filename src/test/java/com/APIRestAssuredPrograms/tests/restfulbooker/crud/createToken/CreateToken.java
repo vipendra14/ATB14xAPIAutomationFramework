@@ -1,4 +1,4 @@
-package com.APIRestAssuredPrograms.tests.restfulbooker.crud.CreateBooking;
+package com.APIRestAssuredPrograms.tests.restfulbooker.crud.createToken;
 
 import com.APIRestAssuredPrograms.base.BaseTest;
 import com.APIRestAssuredPrograms.endpoints.APIConstants;
