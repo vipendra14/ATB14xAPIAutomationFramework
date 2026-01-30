@@ -58,5 +58,6 @@ public class TestIntegrationFlow2 extends BaseTest {
         String basePathGet = APIConstants.CREATE_UPDATE_BOOKING_URL +"/"+ bookingid;
         vr = RestAssured.given().spec(rs).when().get(basePathGet).then().log().all();
         vr.statusCode(404);
+
     }
 }
