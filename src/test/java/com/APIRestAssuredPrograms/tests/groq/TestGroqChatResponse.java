@@ -17,9 +17,8 @@ public class TestGroqChatResponse extends BaseTest {
     public void testGroqGhat(){
         rs.baseUri(APIConstants.GROQ_BASE_URL);
         rs.basePath(APIConstants.GROQ_CHAT);
-        rs.header("Authorization","Bearer <>");
+        rs.header("Authorization","Bearer<>");
         response = RestAssured.given(rs).when().body(groqPayloadManager.setBuildRequest()).log().all().post();
-
 
         ChatCompletionResponse chatCompletionResponse = groqPayloadManager.parseResponse(response.asString());
 
